@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Counter /> decrement snapshot 1`] = `
+<DocumentFragment>
+  <button
+    data-testid="increment-button"
+  >
+    Increment
+  </button>
+  <button
+    data-testid="decrement-button"
+  >
+    Decrement
+  </button>
+  <button
+    data-testid="reset-counter-button"
+  >
+    Reset Counter
+  </button>
+  <p
+    data-testid="counter-display"
+  >
+    Count: -1
+  </p>
+</DocumentFragment>
+`;
+
+exports[`<Counter /> increment snapshot 1`] = `
+<DocumentFragment>
+  <button
+    data-testid="increment-button"
+  >
+    Increment
+  </button>
+  <button
+    data-testid="decrement-button"
+  >
+    Decrement
+  </button>
+  <button
+    data-testid="reset-counter-button"
+  >
+    Reset Counter
+  </button>
+  <p
+    data-testid="counter-display"
+  >
+    Count: 1
+  </p>
+</DocumentFragment>
+`;
+
+exports[`<Counter /> reset counter snapshot 1`] = `
+<DocumentFragment>
+  <button
+    data-testid="increment-button"
+  >
+    Increment
+  </button>
+  <button
+    data-testid="decrement-button"
+  >
+    Decrement
+  </button>
+  <button
+    data-testid="reset-counter-button"
+  >
+    Reset Counter
+  </button>
+  <p
+    data-testid="counter-display"
+  >
+    Count: 0
+  </p>
+</DocumentFragment>
+`;

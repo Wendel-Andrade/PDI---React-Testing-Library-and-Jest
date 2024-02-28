@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div>
+  <h1>
+    Component even or odd
+  </h1>
+  <input
+    name="number"
+    onChange={[Function]}
+    placeholder="enter the number"
+    type="text"
+    value="0"
+  />
+  <p
+    role="presentation"
+  >
+    Even
+  </p>
+  <p
+    role="alert"
+  />
+</div>
+`;

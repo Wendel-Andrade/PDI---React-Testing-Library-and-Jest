@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cities Component Functions snapshot from <Cities /> 1`] = `
+<div>
+  <h3>
+    Cities
+  </h3>
+  <button
+    onClick={[Function]}
+  >
+    Create Cities
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Clear cities
+  </button>
+  <ul />
+  <div>
+    <input
+      onChange={[Function]}
+      placeholder="Enter city name"
+      type="text"
+      value=""
+    />
+    <button
+      onClick={[Function]}
+    >
+      Check City
+    </button>
+    <p>
+      City is not present.
+    </p>
+  </div>
+</div>
+`;
